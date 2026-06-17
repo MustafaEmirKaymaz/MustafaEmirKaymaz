@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @MustafaEmirKaymaz
-- 👀 I’m interested in programerr
-- 🌱 I’m currently learning phyton and C#
-- 💞️ I’m looking to collaborate on Maybe
-- 📫 How to reach me instegram : https://www.instagram.com/mustafaemirkaymaz/?igsh=MXBrbmM1N3N3enRqcw%3D%3D&utm_source=qr
+# Merhaba, ben Mustafa Emir Kaymaz 👋
 
-<!---
-MustafaEmirKaymaz/MustafaEmirKaymaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Lise Öğrencisi
+🤖 Yapay Zeka Geliştiricisi
+🔧 Arduino ve Robotik
+🎮 Unity Oyun Geliştirici
+
+## Projeler
+
+♻️ Geri Dönüşüm AI
+🤖 Yapay Zeka Asistanı
+🎮 Unity Oyunları
+🚁 Arduino Robot Sistemleri
+
+## İletişim
+
+YouTube: https://www.youtube.com/@MustafaEmirKaymaz 
+LinkedIn: https://www.linkedin.com/in/mustafa-emir-kaymaz-615208338/
+instegram: https://www.instagram.com/mustafaemirkaymaz.rsm?igsh=MXE2djA4bHM4Z25yeA%3D%3D&utm_source=qr
